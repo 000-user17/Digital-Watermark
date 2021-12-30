@@ -1,4 +1,0 @@
-报告有pdf版和word版
-dog.jpg是待加入水印的图片
-shuiyin.jpg是水印图片
-svd.py和svd.ipynb是代码文件，完全相同，后者是jupyter版本
